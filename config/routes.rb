@@ -13,6 +13,9 @@ Salty::Application.routes.draw do
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
   resources :homes
+  resources :abouts
+  resources :works
+  resources :projects
 
   # Example resource route with options:
   #   resources :products do

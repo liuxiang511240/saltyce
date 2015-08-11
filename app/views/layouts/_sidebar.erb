@@ -1,0 +1,14 @@
+<ul>
+  <li class="<%= controller_name=='homes' ? 'select' : '' -%>">
+    <%= link_to '首页', {controller: 'homes'} -%>
+  </li>
+  <li class="<%= controller_name=='works' ? 'select' : '' -%>">
+    <%= link_to '我们能', {controller: 'works'} -%>
+  </li>
+  <li class="<%= controller_name=='projects' ? 'select' : '' -%>">
+    <%= link_to '案例', {controller: 'projects'} -%>
+  </li>
+  <li class="<%= controller_name=='abouts' ? 'select' : '' -%>">
+    <%= link_to '关于我们', {controller: 'abouts'} -%>
+  </li>
+</ul>
