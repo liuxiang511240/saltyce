@@ -4452,3 +4452,27 @@ Processing by ProjectsController#index as HTML
   Rendered layouts/_sidebar.erb (1.0ms)
   Rendered layouts/_footer.erb (0.0ms)
 Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2015-08-12 23:04:10 +0800
+Processing by ProjectsController#index as HTML
+  Rendered projects/index.html.erb within layouts/application (4.4ms)
+  Rendered layouts/_header.erb (0.1ms)
+  Rendered layouts/_sidebar.erb (1.3ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/project1.jpg" for 127.0.0.1 at 2015-08-12 23:04:10 +0800
+
+
+Started GET "/works" for 127.0.0.1 at 2015-08-12 23:05:09 +0800
+Processing by WorksController#index as HTML
+  Rendered works/index.html.erb within layouts/application (4.4ms)
+  Rendered layouts/_header.erb (0.1ms)
+  Rendered layouts/_sidebar.erb (1.3ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/project2.jpg" for 127.0.0.1 at 2015-08-12 23:05:09 +0800
