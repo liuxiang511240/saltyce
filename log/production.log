@@ -1,0 +1,10 @@
+I, [2015-08-12T23:23:33.073440 #5643]  INFO -- : Started GET "/" for 127.0.0.1 at 2015-08-12 23:23:33 +0800
+I, [2015-08-12T23:23:33.237533 #5643]  INFO -- : Processing by HomesController#index as HTML
+I, [2015-08-12T23:23:33.336727 #5643]  INFO -- :   Rendered homes/index.html.erb within layouts/application (86.6ms)
+I, [2015-08-12T23:23:46.102781 #5643]  INFO -- :   Rendered layouts/_header.erb (0.5ms)
+I, [2015-08-12T23:23:46.105935 #5643]  INFO -- :   Rendered layouts/_sidebar.erb (2.3ms)
+I, [2015-08-12T23:23:46.107440 #5643]  INFO -- :   Rendered layouts/_footer.erb (0.6ms)
+I, [2015-08-12T23:23:46.107882 #5643]  INFO -- : Completed 200 OK in 12870ms (Views: 12859.9ms | ActiveRecord: 0.0ms)
+I, [2015-08-12T23:23:46.209725 #5643]  INFO -- : Started GET "/assets/application-43c5266e2c4502eaa9bd0607e0b6a930.css" for 127.0.0.1 at 2015-08-12 23:23:46 +0800
+I, [2015-08-12T23:23:46.225969 #5643]  INFO -- : Started GET "/assets/application-e34f4d48aea09b68b62d734cf738d765.js" for 127.0.0.1 at 2015-08-12 23:23:46 +0800
+I, [2015-08-12T23:23:46.242259 #5643]  INFO -- : Started GET "/assets/liu1-fb8f329f80087bfd41eef93da73687f5.jpg" for 127.0.0.1 at 2015-08-12 23:23:46 +0800
