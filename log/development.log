@@ -4476,3 +4476,57 @@ Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/project2.jpg" for 127.0.0.1 at 2015-08-12 23:05:09 +0800
+
+
+Started GET "/works" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+Processing by WorksController#index as HTML
+  Rendered works/index.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_header.erb (0.1ms)
+  Rendered layouts/_sidebar.erb (1.2ms)
+  Rendered layouts/_footer.erb (0.1ms)
+Completed 200 OK in 53ms (Views: 51.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/works.css?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/homes.css?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/abouts.css?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/projects.css?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/abouts.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/works.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/projects.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/homes.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/project2.jpg" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
+
+
+Started GET "/assets/project.jpg" for 127.0.0.1 at 2015-08-12 23:22:10 +0800
